@@ -64,7 +64,7 @@ public class Temperature1 {
 
 	     }
 
-			// the least , greatest  and  average  temperature  - whole  period
+	    // the least , greatest  and  average  temperature  - whole  period
 	     double minTemp= minT[1];
 	     double maxTemp = maxT[1];
 	     double sumTemp= sumT[1];
@@ -78,7 +78,7 @@ public class Temperature1 {
 	    	 sumTemp +=sumT[i];
 	     }
 
-	       System.out.print("Minimum is " + minTemp);
+	 System.out.print("Minimum is " + minTemp);
          System.out.println();
          System.out.print("maximum is " + maxTemp);
          System.out.println();
